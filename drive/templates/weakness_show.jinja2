@@ -1,0 +1,15 @@
+<h1>{{ weakness.title }}</h1>
+
+<h2>Reasons</h2>
+<ul>
+    {% for r in weakness.reasons %}
+        <li>{{ r }}</li>
+    {% endfor %}
+</ul>
+
+<h2>Things to Practice</h2>
+<ul>
+    {% for p in weakness.practice %}
+        <li>{{ p }}</li>
+    {% endfor %}
+</ul>
