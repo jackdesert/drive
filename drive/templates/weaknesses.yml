@@ -1,11 +1,13 @@
 power_brakes:
   title: Dealing with Power Brakes
   reasons:
-    - One
-    - Two
-    - Three
+    - Have never thought much about power brakes before
+    - Reasons why power brakes are difficult
+    - Brake boost is variable
+    - Takes times for pedal to drop; Much more soe with power brakes
+    - Inconsistent level of boost
   practice:
-    - Finding the insertion point
+    - Find the point at which depressing the brake pedal first begins to apply braking force
     - Driving with no power brakes
 
 new_cars:
@@ -17,3 +19,47 @@ new_cars:
   practice:
     - Visualize yourself in a new car
     - Imagine how easy it is to drive
+
+expertise:
+  title: Resistance to Paying Someone with Expertise
+  reasons:
+    - Come from a low income family
+    - Parents and grandparents were all capable of fixing things themselves
+
+abrupt:
+  title: Abrupt Inputs
+  reasons:
+    - Not anticipating the future need of throttle; By the time I realize I need throttle, I needed it yesterday. So I slam it to the floor.
+    - Not seeing the single curve as an ess
+  practice:
+    - Visualize yourself slowing down for the corner, gradually leaseading the brakes while gradually pouring on the throttle
+
+
+sucker:
+  title: Sucker for Underdog Cars
+  reasons:
+    - Come from a low income family
+    - Long-held belief that I have to do it on a shoestring
+    - Understanding how something works is more important to me than winning
+  practice:
+    - Imaging yourself driving a new fast car
+
+eyes:
+  title: Car Position from Curb while Looking Ahead
+  reasons:
+    - Not used to using peripheral vision to gauge environment
+    - Not used to monitoring two things at once
+  practice:
+    - Bicycle slalom with cones, whilst looking at the end of the road
+
+braking_late:
+  title: Braking Late
+  reasons:
+    - Fear of braking too early
+  practice:
+    - Giving yourself twice as much room to slow as you think you need
+
+love_going_sideways:
+  title: Love Going Sideways
+
+
